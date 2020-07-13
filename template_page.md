@@ -1,22 +1,15 @@
-# Topic
+# Template
 
-Intro and links 
+Intro and links
 
-##  The classical canon
+## The classical canon
 
+## MOOCs and other tutorials
 
-##  MOOCs and other tutorials
+## Podcasts
 
+## Other resources
 
+## Meetups
 
-##  Podcasts
-
-
-
-##  Other resources
-
-
-##  Meetups
-
-
-##  Papers
+## Papers

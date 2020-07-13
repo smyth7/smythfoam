@@ -1,6 +1,6 @@
 # Welcome
 
-This may become a useless brain dump, but the initial goal is to capture useful references for AI, Machine Learning and Data Science. I'll probably also touch on DevOps and 'all the the stuff' around [[AIMLDS]], including Python, Unix, [[Git]] and career advice. 
+This may become a useless brain dump, but the initial goal is to capture useful references for AI, Machine Learning and Data Science. I'll probably also touch on DevOps and 'all the the stuff' around [[AIMLDS]], including Python, Unix, [[Git]] and career advice.
 
 My goal is to start building up [[AIMLDS]] from my Leuven slides and other references.
 
