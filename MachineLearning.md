@@ -1,12 +1,10 @@
-# Machine Learning
-
 <!-- vscode-markdown-toc -->
-* 1. [The classical canon](#Theclassicalcanon)
-* 2. [MOOCs and other tutorials](#MOOCsandothertutorials)
-* 3. [Podcasts](#Podcasts)
-* 4. [Other resources](#Otherresources)
-* 5. [Meetups](#Meetups)
-* 6. [Papers](#Papers)
+- [1. <a name='Theclassicalcanon'></a>The classical canon](#1-the-classical-canon)
+- [2. <a name='MOOCsandothertutorials'></a>MOOCs and other tutorials](#2-moocs-and-other-tutorials)
+- [3. <a name='Podcasts'></a>Podcasts](#3-podcasts)
+- [4. <a name='Otherresources'></a>Other resources](#4-other-resources)
+- [5. <a name='Meetups'></a>Meetups](#5-meetups)
+- [6. <a name='Papers'></a>Papers](#6-papers)
 
 <!-- vscode-markdown-toc-config
 	numbering=true
@@ -16,7 +14,7 @@
 
 Based on the list first drawn up for my talk "Straight outta Swampland" at the ITF KU Leuven in January 2020. If you get the joke and are interested, then feel free to poke me for the slides.
 
-Specific topics are [[NLP]], [[ComputerVision]], and [[AGI]]
+Specific topics are covered in their own pages [[NLP]], [[ComputerVision]], and [[AGI]]
 
 ##  1. <a name='Theclassicalcanon'></a>The classical canon
 

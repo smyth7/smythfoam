@@ -2,6 +2,11 @@
 
 [[Git]] - you really, really need this
 
+The (Excellent) Missing Semester of Your CS Education https://missing.csail.mit.edu/ 
+
+Or if you prefer in R,  https://stat545.com/
+
+## CS
 
 https://mitpress.mit.edu/books/introduction-algorithms-third-edition
 
