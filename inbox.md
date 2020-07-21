@@ -1,6 +1,12 @@
 # Inbox
 
+## ps
+
+
+
 https://arxiv.org/abs/2004.03705v1
+
+## Foam
 
 - Here you can write disorganised notes to be categorised later
 - Bullet points are useful, but it could be free form text as well
