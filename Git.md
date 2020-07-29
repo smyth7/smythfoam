@@ -12,3 +12,5 @@ https://learngitbranching.js.org/
 
 https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud
 
+Use commit messages wisely: https://dhwthompson.com/2019/my-favourite-git-commit
+
