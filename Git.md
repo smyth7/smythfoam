@@ -16,3 +16,5 @@ Use commit messages wisely: https://dhwthompson.com/2019/my-favourite-git-commit
 
 https://blog.mocoso.co.uk/talks/2015/01/12/telling-stories-through-your-commits/
 
+https://mislav.net/2014/02/hidden-documentation/
+
