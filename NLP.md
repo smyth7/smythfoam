@@ -23,3 +23,5 @@ Fast.ai
 <https://www.cs.jhu.edu/~jason/465/>
 <https://nlp.stanford.edu/fsnlp/>
 <https://www.cs.colorado.edu/~martin/slp.html>
+
+A list https://www.kdnuggets.com/2019/10/10-free-top-notch-courses-natural-language-processing.html
