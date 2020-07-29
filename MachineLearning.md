@@ -40,6 +40,8 @@ In no particular order
 
 colab.research.google.com
 
+Background: https://mml-book.com/
+
 Awesome lists: https://github.com/sindresorhus/awesome
 
 https://minimum-viable-data-scientist.readthedocs.io/
