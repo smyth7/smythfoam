@@ -3,6 +3,7 @@
 ## ps
 
 
+https://hackernoon.com/list-of-free-resources-to-learn-natural-language-processing-5bc4b76db552
 
 https://arxiv.org/abs/2004.03705v1
 
