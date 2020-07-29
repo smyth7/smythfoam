@@ -7,6 +7,8 @@ https://hackernoon.com/list-of-free-resources-to-learn-natural-language-processi
 
 https://arxiv.org/abs/2004.03705v1
 
+http://neuralnetworksanddeeplearning.com/
+
 ## Foam
 
 - Here you can write disorganised notes to be categorised later
