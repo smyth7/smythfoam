@@ -14,3 +14,5 @@ https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud
 
 Use commit messages wisely: https://dhwthompson.com/2019/my-favourite-git-commit
 
+https://blog.mocoso.co.uk/talks/2015/01/12/telling-stories-through-your-commits/
+
