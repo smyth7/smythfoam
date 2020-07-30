@@ -16,6 +16,8 @@ https://www.thoughtworks.com/insights/blog/coding-habits-data-scientists
 
 <https://www.oreilly.com/radar/a-manifesto-for-agile-data-science/>
 
+https://inst.eecs.berkeley.edu/~cs188/fa18/
+
 ## DevOps, MLops etc
 
 <https://www.atlassian.com/agile>
