@@ -27,3 +27,5 @@ Fast.ai
 A list https://www.kdnuggets.com/2019/10/10-free-top-notch-courses-natural-language-processing.html
 
 Basics: https://www.datasciencecentral.com/profiles/blogs/your-guide-to-natural-language-processing-nlp
+
+https://www.kdnuggets.com/2020/01/intro-guide-nlp-data-scientists.html
