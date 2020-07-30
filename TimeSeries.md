@@ -14,6 +14,8 @@ https://www.econometrics-with-r.org/index.html
 
 ## Other resources
 
+https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/
+
 ## Meetups
 
 ## Papers
