@@ -28,6 +28,8 @@ https://www.fast.ai/ - even deeper man.
 
 https://arxiv.org/abs/1803.08823 - spot my bias.
 
+https://developers.google.com/machine-learning/guides/rules-of-ml
+
 ##  Podcasts
 
 TWIMLAI 
