@@ -13,6 +13,8 @@ https://news.ycombinator.com/item?id=23026750
 
 https://twist.com/remote-work-guides/remote-team-communication?utm_source=doist_blog&utm_medium=referral&utm_campaign=blog_update
 
+https://reeve.blog/blog/principles/
+
 
 ## Foam
 
