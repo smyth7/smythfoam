@@ -9,6 +9,9 @@ https://arxiv.org/abs/2004.03705v1
 
 http://neuralnetworksanddeeplearning.com/
 
+https://news.ycombinator.com/item?id=23026750
+
+
 ## Foam
 
 - Here you can write disorganised notes to be categorised later
