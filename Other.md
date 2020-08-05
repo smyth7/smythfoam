@@ -10,6 +10,8 @@ Or if you prefer in R,  <https://stat545.com/>
 
 https://www.thoughtworks.com/insights/blog/coding-habits-data-scientists
 
+https://software-carpentry.org/lessons/
+
 ## CS
 
 <https://mitpress.mit.edu/books/introduction-algorithms-third-edition>
@@ -17,6 +19,8 @@ https://www.thoughtworks.com/insights/blog/coding-habits-data-scientists
 <https://www.oreilly.com/radar/a-manifesto-for-agile-data-science/>
 
 https://inst.eecs.berkeley.edu/~cs188/fa18/
+
+https://www.cs.princeton.edu/courses/archive/spring19/cos333/bib.html
 
 ## DevOps, MLops etc
 
