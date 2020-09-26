@@ -19,6 +19,12 @@ https://reeve.blog/blog/principles/
 
 Rossman: https://arxiv.org/abs/1604.06737
 
+### general se or not notebooks
+
+https://www.kaggle.com/rtatman/six-steps-to-more-professional-data-science-code
+
+grus hate
+
 ## Foam
 
 - Here you can write disorganised notes to be categorised later
