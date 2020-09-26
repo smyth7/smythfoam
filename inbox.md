@@ -15,6 +15,9 @@ https://twist.com/remote-work-guides/remote-team-communication?utm_source=doist_
 
 https://reeve.blog/blog/principles/
 
+### add deep structured page
+
+Rossman: https://arxiv.org/abs/1604.06737
 
 ## Foam
 
