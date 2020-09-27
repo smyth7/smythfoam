@@ -21,6 +21,11 @@ Rossman: https://arxiv.org/abs/1604.06737
 
 https://cloud.google.com/solutions/machine-learning/ml-on-structured-data-model-2
 
+### rl
+
+https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf?ref=mentorcruise
+
+
 ### general se or not notebooks
 
 https://www.kaggle.com/rtatman/six-steps-to-more-professional-data-science-code
