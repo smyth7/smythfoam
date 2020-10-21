@@ -16,6 +16,8 @@ https://www.econometrics-with-r.org/index.html
 
 https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/
 
+https://structural-time-series.fastforwardlabs.com/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_309
+
 ## Meetups
 
 ## Papers
