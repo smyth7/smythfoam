@@ -6,6 +6,8 @@ The (Excellent) Missing Semester of Your CS Education https://missing.csail.mit.
 
 Or if you prefer in R,  <https://stat545.com/>
 
+https://www.linuxupskillchallenge.com/
+
 ## General coding
 
 https://www.thoughtworks.com/insights/blog/coding-habits-data-scientists
