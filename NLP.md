@@ -29,3 +29,5 @@ A list https://www.kdnuggets.com/2019/10/10-free-top-notch-courses-natural-langu
 Basics: https://www.datasciencecentral.com/profiles/blogs/your-guide-to-natural-language-processing-nlp
 
 https://www.kdnuggets.com/2020/01/intro-guide-nlp-data-scientists.html
+
+Variability and Consistency in Early Language Learning, The Wordbank Project: https://wordbank-book.stanford.edu/index.html 
