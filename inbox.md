@@ -2,6 +2,8 @@
 
 ## ps
 
+raschka: https://sebastianraschka.com/resources/ml-lectures-1
+
 
 https://hackernoon.com/list-of-free-resources-to-learn-natural-language-processing-5bc4b76db552
 
