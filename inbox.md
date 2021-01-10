@@ -2,6 +2,8 @@
 
 ## ps
 
+https://github.com/erebe/personal-server/blob/master/README.md
+
 raschka: https://sebastianraschka.com/resources/ml-lectures-1
 
 
