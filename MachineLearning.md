@@ -66,6 +66,9 @@ https://colah.github.io
 
 http://www.arxiv-sanity.com - The ML ArXiV is otherwise impossible to follow.
 
+https://www.jeremyjordan.me/evaluating-a-machine-learning-model/
+
+
 Distill.pub
 
 ##  Meetups
