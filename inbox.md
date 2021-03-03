@@ -2,7 +2,6 @@
 
 ## ps
 
-https://blog.slavv.com/37-reasons-why-your-neural-network-is-not-working-4020854bd607
 
 https://github.com/erebe/personal-server/blob/master/README.md
 
@@ -20,6 +19,12 @@ https://news.ycombinator.com/item?id=23026750
 https://twist.com/remote-work-guides/remote-team-communication?utm_source=doist_blog&utm_medium=referral&utm_campaign=blog_update
 
 https://reeve.blog/blog/principles/
+
+## add a deep page
+
+https://huggingface.co/blog/simple-considerations
+
+https://blog.slavv.com/37-reasons-why-your-neural-network-is-not-working-4020854bd607
 
 ### add deep structured page
 
