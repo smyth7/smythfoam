@@ -2,6 +2,8 @@
 
 ## ps
 
+https://blog.slavv.com/37-reasons-why-your-neural-network-is-not-working-4020854bd607
+
 https://github.com/erebe/personal-server/blob/master/README.md
 
 raschka: https://sebastianraschka.com/resources/ml-lectures-1
