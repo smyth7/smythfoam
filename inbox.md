@@ -2,6 +2,7 @@
 
 ## ps
 
+https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html
 
 https://github.com/erebe/personal-server/blob/master/README.md
 
