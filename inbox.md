@@ -2,6 +2,8 @@
 
 ## ps
 
+https://amaarora.github.io/2021/03/13/optimizers.html
+
 https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html
 
 https://github.com/erebe/personal-server/blob/master/README.md
