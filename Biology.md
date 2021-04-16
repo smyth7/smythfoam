@@ -16,6 +16,10 @@ Searchable version of Griffiths et al [An Introduction to Genetic Analysis, 7th 
 
 ## MOOCs, books and other tutorials
 
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s897-machine-learning-for-healthcare-spring-2019/
+
+[Cloud-based Tutorials on Structural Bioinformatics](https://github.com/pb3lab/ibm3202)
+
 [Modern Statistics for Modern Biology](http://web.stanford.edu/class/bios221/book/), Susan Holmes Wolfgang Huber, free book. 
 
 Introduction to Protein Structure 2nd Edition by Carl Branden (Author), John Tooze (Author)
@@ -23,6 +27,8 @@ Introduction to Protein Structure 2nd Edition by Carl Branden (Author), John Too
 https://wou.edu/chemistry/courses/online-chemistry-textbooks/ch450-and-ch451-biochemistry-defining-life-at-the-molecular-level/chapter-2-protein-structure/
 
 ## Podcasts
+
+[This week in Virology](https://www.microbe.tv/twiv/)
 
 ## Other resources
 
