@@ -30,7 +30,11 @@ https://wou.edu/chemistry/courses/online-chemistry-textbooks/ch450-and-ch451-bio
 
 ## Papers
 
-[arXiv:2007.08383](https://arxiv.org/abs/2007.08383) Deep Learning in Protein Structural Modeling and Design, by Jeff Gray et al. 
+Deep Learning in Protein Structural Modeling and Design, by Jeff Gray et al.  [arXiv:2007.08383](https://arxiv.org/abs/2007.08383) 
 
-(https://royalsocietypublishing.org/doi/full/10.1098/rsif.2017.0387)   
+A large review article: [Opportunities and obstacles for deep learning in biology and medicine](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2017.0387)   
+
+Survey on Representation Learning for Networks in Biology and Medicine by Zitnik et al: https://arxiv.org/abs/2104.04883
+
+Kevin Yang's excellent github page on ML for proteins: https://github.com/yangkky/Machine-learning-for-proteins
 

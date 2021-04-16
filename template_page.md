@@ -4,7 +4,7 @@ Intro and links
 
 ## The classical canon
 
-## MOOCs and other tutorials
+## MOOCs, books and other tutorials
 
 ## Podcasts
 
