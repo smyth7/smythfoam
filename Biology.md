@@ -1,6 +1,6 @@
 # Biology
 
-I currently mainly work on biological applications of machine learning, but I remain a bio-beginner. Many references here may be too introductory for your tastes. 
+I currently mainly work on biological applications of machine learning, but I remain a bio-beginner. Biology is obviously a huge topic. Many references here may be too introductory for your tastes. Note that many biology tools are still very R based (see [Bioconductor](https://www.bioconductor.org)).
 
 ## The classical canon
 
@@ -16,6 +16,10 @@ Searchable version of Griffiths et al [An Introduction to Genetic Analysis, 7th 
 
 ## MOOCs, books and other tutorials
 
+[Project Rosalind](http://rosalind.info/about/) - learn by doing, like Project Euler etc. 
+
+[Laurent Gatto's teaching material](https://github.com/lgatto/TeachingMaterial) - very  R based. 
+
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s897-machine-learning-for-healthcare-spring-2019/
 
 [Cloud-based Tutorials on Structural Bioinformatics](https://github.com/pb3lab/ibm3202)
@@ -26,11 +30,27 @@ Introduction to Protein Structure 2nd Edition by Carl Branden (Author), John Too
 
 https://wou.edu/chemistry/courses/online-chemistry-textbooks/ch450-and-ch451-biochemistry-defining-life-at-the-molecular-level/chapter-2-protein-structure/
 
+**EMBl-EBI-SIB Trainings**
+
+https://www.ebi.ac.uk/training/
+
+https://www.embl.de/training/e-learning/index.html
+
+https://edu.sib.swiss
+
+**Immunology References**
+
+[Kuby - Immunology](https://www.macmillanlearning.com/college/ca/product/Kuby-Immunology/p/1464189781)
+
+[Janeway's Immunobiology](https://wwnorton.com/books/9780815345053)
+
 ## Podcasts
 
 [This week in Virology](https://www.microbe.tv/twiv/)
 
 ## Other resources
+
+
 
 ## Meetups
 
