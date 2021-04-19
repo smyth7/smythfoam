@@ -20,7 +20,7 @@ Searchable version of Griffiths et al [An Introduction to Genetic Analysis, 7th 
 
 [Laurent Gatto's teaching material](https://github.com/lgatto/TeachingMaterial) - very  R based. 
 
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s897-machine-learning-for-healthcare-spring-2019/
+[Machine Learning for Healthcare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s897-machine-learning-for-healthcare-spring-2019/)
 
 [Cloud-based Tutorials on Structural Bioinformatics](https://github.com/pb3lab/ibm3202)
 
