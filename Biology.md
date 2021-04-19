@@ -60,7 +60,7 @@ Deep Learning in Protein Structural Modeling and Design, by Jeff Gray et al.  [a
 
 A large review article: [Opportunities and obstacles for deep learning in biology and medicine](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2017.0387)  
 
-(Machine learning for integrating data in biology and medicine: Principles, practice, and opportunities)[https://www.sciencedirect.com/science/article/pii/S1566253518304482]
+[Machine learning for integrating data in biology and medicine: Principles, practice, and opportunitie]([https://www.sciencedirect.com/science/article/pii/S1566253518304482)
 
 Survey on Representation Learning for Networks in Biology and Medicine by Zitnik et al: https://arxiv.org/abs/2104.04883
 
