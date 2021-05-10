@@ -32,6 +32,8 @@ https://arxiv.org/abs/1803.08823 - spot my bias.
 
 https://developers.google.com/machine-learning/guides/rules-of-ml
 
+Interpretability: https://twitter.com/hima_lakkaraju/status/1390754121322467330?s=11
+
 ##  Podcasts
 
 TWIMLAI 
