@@ -30,6 +30,8 @@ Introduction to Protein Structure 2nd Edition by Carl Branden (Author), John Too
 
 https://wou.edu/chemistry/courses/online-chemistry-textbooks/ch450-and-ch451-biochemistry-defining-life-at-the-molecular-level/chapter-2-protein-structure/
 
+[Jupyter Notebooks for learning the PyRosetta platform for biomolecular structure prediction and design, Gray et al](https://github.com/RosettaCommons/PyRosetta.notebooks)
+
 **EMBl-EBI-SIB Trainings**
 
 https://www.ebi.ac.uk/training/
