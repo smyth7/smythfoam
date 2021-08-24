@@ -1,5 +1,7 @@
 # Inbox
 
+https://deep-learning-drizzle.github.io/
+
 ## ps
 
 https://amaarora.github.io/2021/03/13/optimizers.html
