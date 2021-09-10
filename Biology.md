@@ -16,6 +16,8 @@ Searchable version of Griffiths et al [An Introduction to Genetic Analysis, 7th 
 
 ## MOOCs, books and other tutorials
 
+https://www.coursera.org/specializations/immunology via a colleague.
+
 [Project Rosalind](http://rosalind.info/about/) - learn by doing, like Project Euler etc. 
 
 [Laurent Gatto's teaching material](https://github.com/lgatto/TeachingMaterial) - very  R based. 
