@@ -20,6 +20,7 @@ ttp://jalammar.github.io
 ## Other resources
 
 Fast.ai
+<http://phontron.com/class/anlp2021/>
 <https://www.cs.jhu.edu/~jason/465/>
 <https://nlp.stanford.edu/fsnlp/>
 <https://www.cs.colorado.edu/~martin/slp.html>
