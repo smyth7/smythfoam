@@ -41,6 +41,11 @@ Rossman: https://arxiv.org/abs/1604.06737
 
 https://cloud.google.com/solutions/machine-learning/ml-on-structured-data-model-2
 
+https://twimlai.com/twiml-talk-301-deep-learning-with-structured-data-w-mark-ryan/
+https://www.manning.com/books/deep-learning-with-structured-data
+https://arxiv.org/abs/1604.06737 (paper of the ‘famous’ rossmann stores kaggle result).
+https://arxiv.org/pdf/1908.07442v1.pdf
+
 ### rl
 
 https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf?ref=mentorcruise
