@@ -2,6 +2,8 @@
 
 https://deep-learning-drizzle.github.io/
 
+https://physicsbaseddeeplearning.org/intro.html
+
 ## ps
 
 https://amaarora.github.io/2021/03/13/optimizers.html
