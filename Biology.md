@@ -16,6 +16,8 @@ Searchable version of Griffiths et al [An Introduction to Genetic Analysis, 7th 
 
 ## MOOCs, books and other tutorials
 
+[CELL BIOLOGY BY THE NUMBERS](http://book.bionumbers.org/)
+
 https://www.coursera.org/specializations/immunology via a colleague.
 
 [Project Rosalind](http://rosalind.info/about/) - learn by doing, like Project Euler etc. 
