@@ -6,6 +6,8 @@ Probability Theory As Extended Logic, Jaynes https://bayes.wustl.edu
 
 Modern Statistics for Modern Biology, http://web.stanford.edu/class/bios221/book/
 
+https://online.stat.psu.edu/stat415/lesson/7/7.5
+
 ## Effect size, p-values etc
 
 [Using Effect Size—or Why the P Value Is Not Enough](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3444174/)
