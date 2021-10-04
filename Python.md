@@ -10,4 +10,6 @@ Python: <https://www.learnpython.org>
 
 Scipy lectures (600+ pages): http://scipy-lectures.org/index.html
 
-Docker: <https://docs.docker.com/get-started/>
+https://github.com/smyth7/beautiful_idiomatic_python
+
+
