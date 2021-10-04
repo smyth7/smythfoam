@@ -14,6 +14,11 @@ https://www.thoughtworks.com/insights/blog/coding-habits-data-scientists
 
 https://software-carpentry.org/lessons/
 
+## Docker 
+
+<https://docs.docker.com/get-started/>
+
+
 ## General Data Science
 
 https://kbroman.org/Talk_DataOrg/dataorg_notes.pdf (see also https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989)
