@@ -12,4 +12,6 @@ Scipy lectures (600+ pages): http://scipy-lectures.org/index.html
 
 https://github.com/smyth7/beautiful_idiomatic_python
 
+http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html
+
 
