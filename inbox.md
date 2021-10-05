@@ -4,6 +4,9 @@ https://deep-learning-drizzle.github.io/
 
 https://physicsbaseddeeplearning.org/intro.html
 
+Simple Modifications to Improve Tabular Neural Networks https://arxiv.org/abs/2108.03214
+
+
 ## ps
 
 https://amaarora.github.io/2021/03/13/optimizers.html
