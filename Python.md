@@ -14,4 +14,6 @@ https://github.com/smyth7/beautiful_idiomatic_python
 
 http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html
 
+https://docs.quantifiedcode.com/python-anti-patterns/index.html
+
 
