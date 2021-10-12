@@ -32,3 +32,5 @@ Basics: https://www.datasciencecentral.com/profiles/blogs/your-guide-to-natural-
 https://www.kdnuggets.com/2020/01/intro-guide-nlp-data-scientists.html
 
 Variability and Consistency in Early Language Learning, The Wordbank Project: https://wordbank-book.stanford.edu/index.html 
+
+https://lena-voita.github.io/nlp_course.html
