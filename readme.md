@@ -1,6 +1,6 @@
 # Welcome
 
-This may become a useless brain dump, but the initial goal is to capture useful references for [Artifical Intelligence (AI), Machine Learning (ML) and Data Science (DS)](#ai-ml-ds). I'll probably also touch on DevOps and 'all the the stuff' around AI ML DS including [[Python]], Unix, [[Git]] and career advice. My goal is to start building up from my Leuven slides and other updated references. I will list links to useful pages and articles on note-taking and tools in [[Notes]].
+This may become a useless brain dump, but the initial goal is to capture useful references for [Artifical Intelligence (AI), Machine Learning (ML) and Data Science (DS)](#ai-ml-ds). I'll probably also touch on DevOps and 'all the other stuff' around AI ML DS including [[Python]], Unix, [[Git]] and career advice. My goal is to start building up from my Leuven slides and other updated references. I will list links to useful pages and articles on note-taking and tools in [[Notes]].
 
 Warning: do not browse directly from the github repo as the links won't work. Use the github pages site [https://smyth7.github.io/smythfoam/](https://smyth7.github.io/smythfoam/) instead. If a link doesn't appear yet, I've probably not added the page or it's not ready for consumption (even if it's in the repo already). 
 
