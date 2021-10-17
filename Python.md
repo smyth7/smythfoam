@@ -2,6 +2,10 @@
 
 <https://jakevdp.github.io/WhirlwindTourOfPython/>
 
+The Hitchhiker’s Guide to Python! https://docs.python-guide.org
+
+https://realpython.com/best-python-books/
+
 Free compute: <https://colab.research.google.com/notebooks/welcome.ipynb>
 
 Unix: <https://www.codecademy.com/learn/learn-the-command-line>
