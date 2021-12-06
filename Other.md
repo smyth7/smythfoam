@@ -14,6 +14,8 @@ https://www.thoughtworks.com/insights/blog/coding-habits-data-scientists
 
 https://software-carpentry.org/lessons/
 
+https://google.github.io/eng-practices/review/reviewer/
+
 ## Docker 
 
 <https://docs.docker.com/get-started/>
