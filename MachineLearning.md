@@ -22,6 +22,8 @@ Neural Networks and Deep Learning by Michael Nielsen. nhttp://neuralnetworksandd
 
 ##  MOOCs and other tutorials
 
+https://classic.d2l.ai/index.html - Smola et al, Dive into Deep Learning
+
 https://www.coursera.org/learn/machine-learning - classical ml.
 
 https://www.deeplearning.ai/ - deep.
