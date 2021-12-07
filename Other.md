@@ -16,6 +16,8 @@ https://software-carpentry.org/lessons/
 
 https://google.github.io/eng-practices/review/reviewer/
 
+https://openbookproject.net/thinkcs/python/english3e/index.html
+
 ## Docker 
 
 <https://docs.docker.com/get-started/>
