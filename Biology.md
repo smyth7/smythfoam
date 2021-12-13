@@ -16,6 +16,8 @@ Searchable version of Griffiths et al [An Introduction to Genetic Analysis, 7th 
 
 https://www.ebi.ac.uk/training/online/courses/human-genetic-variation-introduction/ 
 
+https://proteinstructures.com/
+
 ## MOOCs, books and other tutorials
 
 [A guide to machine learning for biologists](https://www.nature.com/articles/s41580-021-00407-0)
