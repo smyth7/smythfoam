@@ -18,6 +18,16 @@ https://google.github.io/eng-practices/review/reviewer/
 
 https://openbookproject.net/thinkcs/python/english3e/index.html
 
+## Design
+
+Clean code
+
+https://sourcemaking.com/design_patterns
+
+https://www.oodesign.com/
+
+https://ronnieschaniel.medium.com/object-oriented-design-patterns-explained-using-practical-examples-84807445b092
+
 ## Docker 
 
 <https://docs.docker.com/get-started/>
