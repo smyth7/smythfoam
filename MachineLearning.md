@@ -20,6 +20,10 @@ Probabilistic Machine Learning: An Introduction by Kevin Patrick Murphy. https:/
 
 Neural Networks and Deep Learning by Michael Nielsen. nhttp://neuralnetworksanddeeplearning.com/ 
 
+https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
+
+https://research.facebook.com/blog/2021/12/introducing-bean-machine-a-probabilistic-programming-platform-built-on-pytorch/
+
 ##  MOOCs and other tutorials
 
 https://classic.d2l.ai/index.html - Smola et al, Dive into Deep Learning
