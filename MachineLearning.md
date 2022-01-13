@@ -78,6 +78,8 @@ https://www.jeremyjordan.me/evaluating-a-machine-learning-model/
 
 https://explained.ai/
 
+DEEP LEARNING INTERVIEWS https://arxiv.org/abs/2201.00650 
+
 
 Distill.pub
 
