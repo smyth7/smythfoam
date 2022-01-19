@@ -49,6 +49,12 @@ https://www.cs.princeton.edu/courses/archive/spring19/cos333/bib.html
 
 https://jeffe.cs.illinois.edu/teaching/algorithms/#book
 
+## Shell, Bash, Command Line Tools etc
+
+https://earthly.dev/blog/command-line-tools/
+
+https://www.wezm.net/technical/2019/10/useful-command-line-tools/#z
+
 ## DevOps, MLops etc
 
 <https://www.atlassian.com/agile>
