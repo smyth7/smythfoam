@@ -20,4 +20,5 @@ http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html
 
 https://docs.quantifiedcode.com/python-anti-patterns/index.html
 
+https://gto76.github.io/python-cheatsheet/
 
