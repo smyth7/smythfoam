@@ -26,6 +26,8 @@ https://research.facebook.com/blog/2021/12/introducing-bean-machine-a-probabilis
 
 ##  MOOCs and other tutorials
 
+https://marcotcr.github.io/lime/tutorials/Lime%20-%20basic%20usage%2C%20two%20class%20case.html good original LIME example
+
 https://classic.d2l.ai/index.html - Smola et al, Dive into Deep Learning
 
 https://www.coursera.org/learn/machine-learning - classical ml.
