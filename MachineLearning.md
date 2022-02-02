@@ -16,6 +16,8 @@ Pattern Recognition and Machine Learning, Bishop https://cds.cern.ch › record 
 
 Deep Learning, Goodfellow et al https://www.deeplearningbook.org
 
+Dive into Deep Learning https://arxiv.org/abs/2106.11342
+
 Probabilistic Machine Learning: An Introduction by Kevin Patrick Murphy. https://probml.github.io/pml-book/book1.html
 
 Neural Networks and Deep Learning by Michael Nielsen. nhttp://neuralnetworksanddeeplearning.com/ 
