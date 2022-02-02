@@ -6,6 +6,8 @@
 
 <https://web.stanford.edu/~jurafsky/slp3/>
 
+A Primer on Neural Network Models for Natural Language Processing https://arxiv.org/abs/1510.00726
+
 ## Blogs and Newsletters
 
 <https://ruder.io>
