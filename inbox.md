@@ -6,6 +6,12 @@ https://physicsbaseddeeplearning.org/intro.html
 
 Simple Modifications to Improve Tabular Neural Networks https://arxiv.org/abs/2108.03214
 
+https://d2l.ai/chapter_natural-language-processing-pretraining/bert-dataset.html
+
+## cv
+
+https://szeliski.org/Book/
+
 
 ## ps
 
