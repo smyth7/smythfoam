@@ -12,6 +12,13 @@ https://d2l.ai/chapter_natural-language-processing-pretraining/bert-dataset.html
 
 https://szeliski.org/Book/
 
+## geometric/graph
+
+https://arxiv.org/abs/2104.13478
+
+https://arxiv.org/abs/1912.12693
+
+https://geometricdeeplearning.com/lectures/
 
 ## ps
 
