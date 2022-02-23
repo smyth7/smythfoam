@@ -8,6 +8,8 @@ Simple Modifications to Improve Tabular Neural Networks https://arxiv.org/abs/21
 
 https://d2l.ai/chapter_natural-language-processing-pretraining/bert-dataset.html
 
+https://www.pythonlikeyoumeanit.com/index.html
+
 ## cv
 
 https://szeliski.org/Book/
