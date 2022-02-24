@@ -22,3 +22,7 @@ https://docs.quantifiedcode.com/python-anti-patterns/index.html
 
 https://gto76.github.io/python-cheatsheet/
 
+## OOP
+
+https://python-course.eu/oop/
+
