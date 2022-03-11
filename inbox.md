@@ -10,6 +10,10 @@ https://d2l.ai/chapter_natural-language-processing-pretraining/bert-dataset.html
 
 https://www.pythonlikeyoumeanit.com/index.html
 
+## add a viz page
+
+https://graphicsprinciples.github.io/
+
 ## cv
 
 https://szeliski.org/Book/
