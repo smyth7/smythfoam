@@ -1,5 +1,7 @@
 # Inbox
 
+https://courses.dibya.online/p/fastdeeprl
+
 https://deep-learning-drizzle.github.io/
 
 https://physicsbaseddeeplearning.org/intro.html
