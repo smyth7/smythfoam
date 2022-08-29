@@ -14,6 +14,8 @@ https://www.pythonlikeyoumeanit.com/index.html
 
 https://mlstory.org/ PATTERNS, PREDICTIONS, AND ACTIONS
 
+https://iclr-blog-track.github.io/blog/
+
 
 ## add a viz page
 
