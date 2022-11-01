@@ -8,6 +8,8 @@ https://git-scm.com/book/en/v2
 
 https://jwiegley.github.io/git-from-the-bottom-up/
 
+https://blog.plover.com/prog/git/tips.html
+
 https://happygitwithr.com
 
 https://learngitbranching.js.org/
