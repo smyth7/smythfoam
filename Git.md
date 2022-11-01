@@ -6,6 +6,8 @@ https://git-scm.com/
 
 https://git-scm.com/book/en/v2
 
+https://jwiegley.github.io/git-from-the-bottom-up/
+
 https://happygitwithr.com
 
 https://learngitbranching.js.org/
