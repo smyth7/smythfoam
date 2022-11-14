@@ -42,6 +42,8 @@ https://wou.edu/chemistry/courses/online-chemistry-textbooks/ch450-and-ch451-bio
 
 [Jupyter Notebooks for learning the PyRosetta platform for biomolecular structure prediction and design, Gray et al](https://github.com/RosettaCommons/PyRosetta.notebooks)
 
+https://eriqande.github.io/eca-bioinf-handbook/
+
 **EMBl-EBI-SIB Trainings**
 
 https://www.ebi.ac.uk/training/
