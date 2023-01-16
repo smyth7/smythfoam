@@ -70,6 +70,8 @@ https://blog.slavv.com/37-reasons-why-your-neural-network-is-not-working-4020854
 
 https://github.com/d2l-ai/d2l-en
 
+https://people.idsia.ch/~juergen/deep-learning-history.html
+
 ### add deep structured page
 
 Rossman: https://arxiv.org/abs/1604.06737
