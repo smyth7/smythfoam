@@ -60,6 +60,8 @@ https://twist.com/remote-work-guides/remote-team-communication?utm_source=doist_
 
 https://reeve.blog/blog/principles/
 
+https://bookdown.org/ts_robinson1994/10_fundamental_theorems_for_econometrics/
+
 ## add a deep page
 
 https://huggingface.co/blog/simple-considerations
