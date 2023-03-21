@@ -1,5 +1,7 @@
 # Inbox
 
+https://philippschmitt.com/blueprints-for-intelligence/
+
 https://courses.dibya.online/p/fastdeeprl
 
 https://deep-learning-drizzle.github.io/
