@@ -1,5 +1,7 @@
 # Inbox
 
+https://e2eml.school/transformers.html
+
 https://philippschmitt.com/blueprints-for-intelligence/
 
 https://courses.dibya.online/p/fastdeeprl
