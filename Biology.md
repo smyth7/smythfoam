@@ -20,6 +20,8 @@ https://proteinstructures.com/
 
 ## MOOCs, books and other tutorials
 
+https://www.broadinstitute.org/scientific-community/science/programs/medical-and-population-genetics/primers/primer-medical-and-pop
+
 [A guide to machine learning for biologists](https://www.nature.com/articles/s41580-021-00407-0)
 
 [CELL BIOLOGY BY THE NUMBERS](http://book.bionumbers.org/)
