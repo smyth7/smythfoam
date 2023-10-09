@@ -21,6 +21,8 @@ ttp://jalammar.github.io
 
 ## Other resources
 
+New LLM course at Stanford: https://stanford-cs324.github.io/winter2022/
+
 Fast.ai
 <http://phontron.com/class/anlp2021/>
 <https://www.cs.jhu.edu/~jason/465/>
