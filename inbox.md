@@ -1,5 +1,7 @@
 # Inbox
 
+https://peterroelants.github.io/posts/gaussian-process-tutorial/
+
 https://e2eml.school/transformers.html
 
 https://philippschmitt.com/blueprints-for-intelligence/
