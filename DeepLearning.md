@@ -14,5 +14,7 @@ https://sebastianraschka.com/blog/2023/llm-reading-list.html
 ## Slurm and GPUs
 
 https://hpc.vub.be/docs/job-submission/gpu-job-types/
+
 https://docs.alliancecan.ca/wiki/Using_GPUs_with_Slurm
+
 https://docs.csc.fi/support/tutorials/ml-multi/#pytorch-ddp
