@@ -26,6 +26,8 @@ https://www.mathphysicsbook.com/mathematics/
 
 https://docs.google.com/presentation/d/1_tvzLKks83sYOKemfFeImCPnWtCQ-CHqmKK_3IQI1so/edit#slide=id.g1342fba2a33_0_0
 
+https://udlbook.github.io/udlbook/
+
 
 ## add a viz page
 
