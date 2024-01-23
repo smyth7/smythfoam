@@ -18,7 +18,10 @@ https://www.ebi.ac.uk/training/online/courses/human-genetic-variation-introducti
 
 https://proteinstructures.com/
 
+
 ## MOOCs, books and other tutorials
+
+http://eddylab.org/cupbook.html
 
 Intermediate Genetics https://www.ndsu.edu/pubweb/~mcclean/plsc431/431g.htm
 
@@ -47,6 +50,10 @@ https://wou.edu/chemistry/courses/online-chemistry-textbooks/ch450-and-ch451-bio
 [Jupyter Notebooks for learning the PyRosetta platform for biomolecular structure prediction and design, Gray et al](https://github.com/RosettaCommons/PyRosetta.notebooks)
 
 https://eriqande.github.io/eca-bioinf-handbook/
+
+Church course https://ocw.mit.edu/courses/hst-508-genomics-and-computational-biology-fall-2002/pages/readings/
+
+
 
 **EMBl-EBI-SIB Trainings**
 
